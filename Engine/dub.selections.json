@@ -1,0 +1,9 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"bindbc-loader": "1.0.3",
+		"bindbc-sdl": "1.2.4",
+		"gtk-d": "3.9.0",
+		"part0": {"path":"math/"}
+	}
+}

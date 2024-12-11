@@ -1,0 +1,22 @@
+{
+	"authors": [
+		"mike",
+		"peter"
+	],
+	"copyright": "Copyright © 2023, mike",
+	"dependencies": {
+		"bindbc-sdl": "~>1.2.4",
+        "gtk-d": "~>3.9.0",
+        "part0":{
+            "path": "./math/"
+        }
+	},
+"versions": [
+		"SDL_2016",
+        "SDL_Image",  
+        "SDL_TTF"     
+    ],
+    "description": "A minimal D application.",
+    "license": "proprietary",
+    "name": "prog_sdl"
+}
