@@ -16,28 +16,23 @@
 
 ## Team
 
-Team Name: *Edit this to something cool here*
+Team Name: *Trench Residents*
 
-*TODO*:
 Update your Team member Names here (Up to 4).
 
-1. *my name is...*
-2. *my name is...*
-3. *my name is...*
-4. *my name is...*
+1. Peter Messina
+2. Nawal Naz Tareque
+3. Denny Zhang
+4. Eric Mai
 -->
 
-## Assignment Milestones
+## Post Mortem Reflections
 
-1. [Part 1 README](./part1_README.md) 
- 	* Read the project description
-2. [Part 2 README](./part2_README.md) 
- 	* More specific requierments of the project and who is going to be responsible for each part
-3. [Part 3 README](./part3_README.md) 
- 	* Portfolio instructions 	
-<!--4. Team member Evaluation: https://forms.gle/qiD6guzN5W5LxAcV9
- 	* **This must be filled out before the project is due.**
--->
+When it comes to building a game, the most obvious answer in terms of improvement is to incorporate more assets into the game. More sprites, more characters with attractive designs, more strange audios to couple with the visual effects, etc. However, one key area of improvement would definitely have been a chance to refactor our code, especially in the files concerning the Component and GameObject classes as those files could be significantly modularized. 
+
+In terms of the game design itself, I would add new levels and distinguish them with new tile maps in the background - currently the only tile map is the grass in the background, and add some more audio for gaining coins, zapping lasers, and for interacting with different textures and surfaces. 
+
+Further improvements would include a more robust math library with more complex vector mathematics outlined (e.g. cross product, eigenvalues and eigenvectors) to enable a more well-constructed physics engine to be operational. 
 
 ## Universal Resources
 
@@ -100,45 +95,3 @@ You will be using SDL to build this project and the same libraries that we have 
     </tr>
   </tbody>
 </table>
-
-<!--
-# Teammate Evaluation - Rubric (5%)
-
-<table>
-  <tbody>
-    <tr>
-      <th>Points</th>
-      <th align="center">Description</th>
-    </tr>
-    <tr>
-      <td>5% (Team member evaluation)</td>
-      <td align="left">Did you fill it out? How did your teammates rate you?</td>
-    </tr> 
-  </tbody>
-</table>
-
-
-**Note: Everyone on your team earns the same grade for all parts of the project.**
-
-## Notes on working in teams
-
-* Pragmatically
-	* It is useful to work in separate branches in git, and then merge your code to master, and then resolve the merge conflicts (ideally with the person you are working with).
-	* If you are uncomfortable with this in github, then pair programming may be a viable option (I do however want to see commits from everyone).
-* On working with others
-	* Be responsive
-		* Check your email, respond to your teammates within 24-48 hours on the preferred communication platform
-	* Be proactive
-		* Alert the course staff if there are issues sooner rather than later--we cannot do anything the last day before the project is due.
-	* Contribute
-		* The course staff looks at the commit logs to make sure everyone participated (No free rides--earn your grade!)
-		* Note: One team member doing all the work is not heroic either
-			* Balance the work load--no one should complete more than 50% of the project on a 4 person team for example.
-
-#### More Resources on working in Teams
-
-* [What Makes a Winning Game Development Team?](http://www.bitmascot.com/what-makes-a-successful-game-team/)
-* [The 3 C's of being a captain](https://appliedsportpsych.org/resources/resources-for-athletes/the-3-c-s-of-being-a-captain/)
-* [Etiquette for Pair Programming](https://dzone.com/articles/etiquette-for-pair-programming)
-
--->
