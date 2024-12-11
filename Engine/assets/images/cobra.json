@@ -1,0 +1,46 @@
+{
+    "filepath": "./images/assets/gudetama.bmp",
+    "format": {
+        "width": 288,
+        "height": 384,
+        "tileWidth": 96,
+        "tileHeight": 96
+    },
+    "frames": {
+        "walkDown": [
+            6,
+            7,
+            8
+        ],
+        "walkUp": [
+            0,
+            1,
+            2
+        ],
+        "walkRight": [
+            3,
+            4,
+            5
+        ],
+        "walkLeft": [
+            9,
+            10,
+            11
+        ],
+        "Stop": [
+            0
+        ],
+        "StopLeft": [
+            9
+        ],
+        "StopRight": [
+            3
+        ],
+        "StopDown": [
+            6
+        ],
+        "StopUp": [
+            0
+        ]
+    }
+}

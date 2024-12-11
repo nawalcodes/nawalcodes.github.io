@@ -1,0 +1,12 @@
+{
+    "filepath": "./images/assets/coins.bmp",
+    "format": {
+        "width": 1000,
+        "height": 217,
+        "tileWidth": 166,
+        "tileHeight": 217
+    },
+    "frames": {
+        "spinGold": [0, 1, 2, 3, 4, 5, 4, 3, 2, 1, 0]
+    }
+}
