@@ -14,7 +14,7 @@ permalink: /GameEngines/
 - You will put all of your code and deliverables in the [Engine](./Engine) directory.
 	- You can have a separate 'game' directory if you otherwise choose.
 
-to run our game, go to the Engine and run ./prog_sdl_final! Choose any level and load it in with the "l" key.
+to run our game, go to the Engine and run ./prog_sdl_final! Choose any level and load it in with the "l" key. (note, must close the gui before the game itself)
 <!-- NOTE:  This semester you will be completing the project yourself.
 - You will be working on this assignment as a team on your choice (or a combination) of the Mac, Linux, or Windows Operating Sytstem.
 - Make sure everyone has a way to work on this codebase, with a common set of tools.
