@@ -1,4 +1,4 @@
-<img align="right" width="300px" src="./media/header.png">
+<img align="right" width="500px" src="./media/engine_architecture.png">
 
 # The Final Project!
 
